@@ -1,0 +1,91 @@
+.evaluation{
+			padding: 18px 0;
+    		position: relative;
+    		height: auto;
+		}
+.classfify{
+    padding-bottom: 18px;
+    margin: 0 18px;
+    border-bottom: 1px solid rgba(7,17,27,.1);
+}
+.item{
+		display: inline-block;
+		width:64px;
+		height: 32px;
+		line-height: 32px;
+		font-size: 12px;
+		margin-right: 8px;
+		text-align: center;
+		background: rgba(0,160,220,.2);
+}
+span.active{background: #00a9dc; color: #fff}
+
+.switch{
+    font-size: 12px;
+    width: 100%;
+    padding: 12px 0 12px 18px;
+    color: #93999f;
+    border-bottom: 1px solid rgba(7,17,27,.1);
+}
+.switch i{
+color: #00c850;
+}
+/*evel-list */
+.evel-list{
+width:100%;
+}
+
+.eve{
+display: flex;
+padding: 18px 0;
+margin: 0 18px;
+border-bottom: 1px solid rgba(7,17,27,.1);
+min-height: 102px;
+}
+.picture{ 
+width:28px; margin-right: 12px;}
+.picture img{width:28px; height: 28px; border-radius: 50%;}
+.content{flex: 1}
+.user{width:299px; height: 12px}
+.user .name{font-size: 10px;color: #07111b;line-height: 12px;}
+.rateTime{
+		position: absolute;
+		font-weight: 200;
+		right: 18px;
+		color: #93999f;
+		font-size: 10px;
+}
+.start-wrapper{
+padding-top: 4px;
+margin-bottom: 6px;
+}
+.start{float: left}
+.start .on i{
+font-size: 10px;
+color: orange;
+margin-left: 3px;}
+.min{
+	font-size: 10px;
+    padding-left: 6px;
+    font-weight: 200;
+    color: #93999f;
+}
+.pre{
+	 font-size: 12px;
+    color: #07111b;
+    line-height: 18px;
+}
+.text{width:100%;}
+.recommed{padding-top: 4px;}
+.recommed span i{font-size: 12px; color:#00a0dc;}
+.dish{
+	display: inline-block;
+	font-size: 9px;
+	color: #93999f;
+	line-height: 16px;
+	border: 1px solid rgba(7,17,27,.1);
+	padding: 2px 6px;
+	margin-right: 8px;
+	white-space: normal;
+	margin-top: 4px;
+}

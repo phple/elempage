@@ -1,0 +1,21 @@
+#header{width : 100%; height: 135px; background : rgb(7,17,27,.5); color:#fff; position: fixed; }
+.container-wrap{width:305px; height: 67px; margin: 24px 12px 18px 24px;}
+.img{float: left; width:64px; height: 65px;}
+.img img{width:100%; height: 100%}
+.content{margin-left:16px; width:184px; height: 65px; float: left;}
+.title{margin: 2px 0 8px;font-size: 16px; height: 18px;}
+.title .logo{width:30px; height: 18px; display:block; background-image: url(/img/brand.png) ; background-size: 30px 18px; float: left;}
+.name{margin-left: 6px;font-size: 16px;line-height: 18px; font-weight: 700; display:block; float: left; }
+.discribe{font-size: 12px; margin-bottom: 5px;}
+.support{height: 12px;}
+.jian{display: block; width:12px; height: 12px; background-image: url(/img/a.png); background-size: cover; float: left; margin-right: 4px}
+.text{display: block; font-size: 10px; line-height: 12px;}
+.supportCount{width:52px; height: 24px; position: absolute; right: 12px; bottom: 41px; border-radius: 14px;background-color: rgba(0,0,0,.2);text-align: center; line-height: 24px;}
+.num{font-size: 10px;}
+.gonggao{height: 28px;line-height: 28px; padding: 0 22px 0 12px;
+background: rgba(7,17,27,.2);}
+.gaotitle{display:block; background-image: url(/img/b.png); width:22px; height: 12px;  background-size: cover; margin-top:8px; float: left;  margin-right: 4px;}
+.ph{font-size: 10px;vertical-align: middle; margin: 0 4px; display: block; white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
+.gonggao i{position: absolute; font-size: 10px; right: 12px; float: left; bottom: 0px;}
+.background{position: absolute;top: 0;left: 0;width: 100%;height: 100%; filter: blur(10px);z-index: -1;}
+.background img{width:100%; height: 100%}
